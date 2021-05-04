@@ -1,3 +1,5 @@
+package com.galvanize;
+
 import javax.naming.Name;
 
 public class Program {
